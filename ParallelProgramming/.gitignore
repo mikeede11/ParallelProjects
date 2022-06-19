@@ -1,0 +1,8 @@
+*.txt
+*.png
+*.tex
+*.gz
+*.iml
+.idea/
+target/
+logs/
